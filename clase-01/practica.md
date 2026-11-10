@@ -5,7 +5,9 @@
 > Práctica de diseño y revisión de casos de prueba para el registro de MiniModa utilizando herramientas de inteligencia artificial.
 
 ## 1. Preparación
-- Navegador y fecha: Google Chrome, 10/11/2026. Exploré manualmente los formularios de registro e inicio de sesión de MiniModa para conocer su funcionamiento y comprobar las validaciones. Verifiqué que el email requiere un formato válido, la contraseña debe tener al menos 8 caracteres, las contraseñas deben coincidir, la edad permitida es de 13 a 120 años y es obligatorio seleccionar un país y aceptar los términos. También observé que el campo Nombre acepta números, aunque no existe una restricción visible que permita determinar si esto es un defecto. En el inicio de sesión comprobé que se puede ingresar sin una cuenta previamente registrada, pero la página aclara que se trata de una simulación, por lo que no lo considero un error confirmado.
+- Navegador y fecha: Google Chrome, 10/11/2026. 
+
+Exploré manualmente los formularios de registro e inicio de sesión de MiniModa para conocer su funcionamiento y comprobar las validaciones. Verifiqué que el email requiere un formato válido, la contraseña debe tener al menos 8 caracteres, las contraseñas deben coincidir, la edad permitida es de 13 a 120 años y es obligatorio seleccionar un país y aceptar los términos. También observé que el campo Nombre acepta números, aunque no existe una restricción visible que permita determinar si esto es un defecto. En el inicio de sesión comprobé que se puede ingresar sin una cuenta previamente registrada, pero la página aclara que se trata de una simulación, por lo que no lo considero un error confirmado.
 
 ## 2. Superficie elegida
 - Elegí (chat o cowork): ChatGPT en modo Chat.
